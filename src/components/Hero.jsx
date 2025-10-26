@@ -54,7 +54,7 @@ export default function Hero({ onOpenAuth }) {
 
         {/* Right: 3D Spline object */}
         <div className="relative h-[520px] w-full rounded-3xl ring-1 ring-white/20 overflow-hidden">
-          <Spline scene="https://prod.spline.design/VyGeZv58yuk8j7Yy/scene.splinecode" style={{ width: '100%', height: '100%' }} />
+          <Spline scene="https://prod.spline.design/4Zh-Q6DWWp5yPnQf/scene.splinecode" style={{ width: '100%', height: '100%' }} />
           {/* Soft bottom fade so UI layers feel grounded; ensure interaction isn't blocked */}
           <div className="pointer-events-none absolute inset-0 bg-gradient-to-b from-transparent via-transparent to-[#0B0F19]/50" />
         </div>
